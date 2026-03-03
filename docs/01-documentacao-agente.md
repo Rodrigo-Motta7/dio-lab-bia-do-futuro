@@ -72,7 +72,7 @@ flowchart TD
 - [ ] O agente só responde com base nos dados do cliente.
 - [ ] Resposta com a fonte de onde foi tirada para evitar alucinações.
 - [ ] Não alucina, quando não sabe fala.
-- [ ] Não faz recomendação de investimento, somente explica os tipos.
+- [ ] Não vaza dados bancarios.
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
