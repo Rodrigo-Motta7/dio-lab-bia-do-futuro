@@ -35,13 +35,10 @@ Não pois não vi necessidade de alguma alteração.
 import panda as pd
 import json
   
-#CSVs
-historico = pd.read_csv('data/historico_atendimento.csv')
-transacoes = pd.read_csv('data/transacoes.csv')
-  
-#JSON
-with open('data/perfil_investidor.json', 'r', encoding='utf-8') as f:
-  perfil = json.load(f)
+perfil = json.load(open('./data/perfil_investidor.json'))
+transacoes = pd.read_csv(open('./data/transacoes.csv'))
+historico = pd.read_csv(open('./data/transacoes.csv'))
+produtos = json.load(open('./data/produtos_financeiros.json'))
 ```
 
 ### Como os dados são usados no prompt?
