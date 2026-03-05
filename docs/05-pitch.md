@@ -26,10 +26,10 @@ Sempre que você precisar ele ira te ajudar, como um professor particular, com e
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 2 minutos
-- [ ] Problema claramente definido
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [X] Duração máxima de 2 minutos
+- [X] Problema claramente definido
+- [X] Diferencial explicado
+- [X] Áudio e vídeo com boa qualidade
 
 ---
 
@@ -37,4 +37,4 @@ Sempre que você precisar ele ira te ajudar, como um professor particular, com e
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+https://drive.google.com/file/d/13gLvT1cDfr0G077t4LNZDI-VxV9wWZE6/view?usp=sharing
